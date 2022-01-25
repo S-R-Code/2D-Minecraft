@@ -169,6 +169,82 @@ function my_Keydown(e) {
 
     }
     
+    if( keyPressed == '81') {
+        
+        new_image('Quartz.jpg');
+        console.log("q");
+
+    }
+
+    if( keyPressed == '88') {
+        
+        new_image('Ore.png');
+        console.log("x");
+
+    }
+
+    if( keyPressed == '86') {
+        
+        new_image('Glass.png');
+        console.log("v");
+
+    }
+
+    if( keyPressed == '72') {
+        
+        new_image('Hay.png');
+        console.log("h");
+
+    }
+
+    if( keyPressed == '70') {
+        
+        new_image('Furnace');
+        console.log("f");
+
+    }
+
+    if( keyPressed == '66') {
+        
+        new_image('Bedrock.png');
+        console.log("b");
+
+    }
+
+    if( keyPressed == '73') {
+        
+        new_image('Iron.png');
+        console.log("i");
+
+    }
+
+    if( keyPressed == '65') {
+        
+        new_image('Water.jpg');
+        console.log("a");
+
+    }
+
+    if( keyPressed == '74') {
+        
+        new_image('Juke.png');
+        console.log("j");
+
+    }
+
+    if( keyPressed == '69') {
+        
+        new_image('End.png');
+        console.log("e");
+
+    }
+
+    if( keyPressed == '90') {
+        
+        new_image('And.png');
+        console.log("z");
+
+    }
 }   
 
 function up(){
